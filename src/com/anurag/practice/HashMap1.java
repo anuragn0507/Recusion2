@@ -23,6 +23,9 @@ public class HashMap1 {
             }
         }
         System.out.println(hm1);
+
+        //How to iterate over hashmap
+
     }
 
 }
