@@ -14,3 +14,8 @@ public class StringP {
 
     }
 }
+
+//if you have 2D array
+// int arr[] = new int[5][5] {1, 2},
+//                           {2, 4};
+// int arr[] = new int[5][5];
